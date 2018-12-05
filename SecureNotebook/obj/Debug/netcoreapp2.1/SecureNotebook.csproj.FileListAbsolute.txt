@@ -1,0 +1,11 @@
+D:\Kbrs\SecureNotebook\bin\Debug\netcoreapp2.1\SecureNotebook.deps.json
+D:\Kbrs\SecureNotebook\bin\Debug\netcoreapp2.1\SecureNotebook.runtimeconfig.json
+D:\Kbrs\SecureNotebook\bin\Debug\netcoreapp2.1\SecureNotebook.runtimeconfig.dev.json
+D:\Kbrs\SecureNotebook\bin\Debug\netcoreapp2.1\SecureNotebook.dll
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.csprojAssemblyReference.cache
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.csproj.CoreCompileInputs.cache
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.RazorAssemblyInfo.cache
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.RazorAssemblyInfo.cs
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.AssemblyInfoInputs.cache
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.AssemblyInfo.cs
+D:\Kbrs\SecureNotebook\obj\Debug\netcoreapp2.1\SecureNotebook.RazorTargetAssemblyInfo.cache

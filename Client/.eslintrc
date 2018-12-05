@@ -1,0 +1,49 @@
+{
+    "rules": {
+        "react/jsx-uses-react": "warn",
+        "react/jsx-uses-vars": "warn",
+        "no-compare-neg-zero": "warn",
+        "no-duplicate-case": "warn",
+        "no-empty": "warn",
+        "no-empty-character-class": "warn",
+        "no-extra-semi": "warn",
+        "no-irregular-whitespace": "warn",
+        "no-trailing-spaces": "warn",
+        "no-else-return": "warn",
+        "no-unused-labels": "warn",
+        "no-empty-pattern": "warn",
+        "no-eq-null": "warn",
+        "no-eval": "warn",
+        "no-mixed-spaces-and-tabs": "error",
+        "valid-typeof": "error",
+        "accessor-pairs": "error",
+        "no-unneeded-ternary": "error",
+        "no-cond-assign": "error",
+        "no-dupe-args": "error",
+        "quotes": [
+            "warn",
+            "double"
+        ],
+        "semi": [
+            "warn",
+            "always"
+        ]
+    },
+    "settings": {
+        "react": {
+            "pragma": "React",
+            "version": "16.2.0"
+        },
+        "propWrapperFunctions": [ "forbidExtraProps" ]
+    },
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ],
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module",
+        "allowImportExportEverywhere": true
+    }
+}
